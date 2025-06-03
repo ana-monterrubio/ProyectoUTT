@@ -1,2 +1,2 @@
 #Hola mundo estoy iniciando Git
-Esta es la segunda vez
+#Esta es la segunda vez
